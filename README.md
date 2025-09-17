@@ -50,7 +50,7 @@ Fast reads — cache for hot weekly lookups, worker to refresh provider data.
 
 ## Architecture
 Image diagram (click to open)  
-<img src="image2" alt="Container architecture diagram (image)" width="960">
+<img src="image2.png" alt="Container architecture diagram (image)" width="960">
 
 ## Usage
 Week switcher — concept demo  
