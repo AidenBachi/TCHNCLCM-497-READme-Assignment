@@ -2,7 +2,7 @@
 
 <!-- Banner / Logo (clickable) -->
 <p align="center">
-  <a href="image1">
+  <a href="image1.png">
     <img src="image1.png" alt="Fantasy Scores Aggregator banner/logo" width="960">
   </a>
 </p>
