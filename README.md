@@ -55,7 +55,7 @@ Image diagram (click to open)
 ## Usage
 Week switcher — concept demo  
 The dropdown doesn't render in the video, but it does locally.
-<video src="gif3.mp4" width="800" controls autoplay loop muted></video>
+<img src="gif7.gif" alt="Link a provider via OAuth and load leagues" width="800">
 
 
 Link provider account — concept demo  
