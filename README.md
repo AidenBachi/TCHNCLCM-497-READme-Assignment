@@ -3,7 +3,7 @@
 <!-- Banner / Logo (clickable) -->
 <p align="center">
   <a href="image1">
-    <img src="image1" alt="Fantasy Scores Aggregator banner/logo" width="960">
+    <img src="image1.png" alt="Fantasy Scores Aggregator banner/logo" width="960">
   </a>
 </p>
 
