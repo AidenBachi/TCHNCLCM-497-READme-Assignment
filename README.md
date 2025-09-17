@@ -54,7 +54,7 @@ Image diagram (click to open)
 
 ## Usage
 Week switcher — concept demo  
-<img src="gif1.gif" alt="Switch between weeks and see matchups refresh" width="800">
+<img src="gif1.mp4" alt="Switch between weeks and see matchups refresh" width="800">
 
 Link provider account — concept demo  
 <img src="gif2.gif" alt="Link a provider via OAuth and load leagues" width="800">
