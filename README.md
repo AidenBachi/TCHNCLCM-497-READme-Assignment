@@ -54,10 +54,10 @@ Image diagram (click to open)
 
 ## Usage
 Week switcher — concept demo  
-<img src="gif1" alt="Switch between weeks and see matchups refresh" width="800">
+<img src="gif1.gif" alt="Switch between weeks and see matchups refresh" width="800">
 
 Link provider account — concept demo  
-<img src="gif2" alt="Link a provider via OAuth and load leagues" width="800">
+<img src="gif2.gif" alt="Link a provider via OAuth and load leagues" width="800">
 
 ## FAQ
 **Does this support multiple leagues across providers?**  
